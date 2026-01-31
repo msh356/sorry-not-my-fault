@@ -19,7 +19,7 @@ else:
         sysrq.close()
     elif sys.argv[1] == "modulepanic":
         os.system("modprobe snmf_panic")
-    elif sys.argv[2] == "modulebug":
+    elif sys.argv[1] == "modulebug":
         os.system("modprobe snmf_bug")
     else:
         print("incorrect panic method")
