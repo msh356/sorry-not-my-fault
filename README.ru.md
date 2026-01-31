@@ -1,5 +1,5 @@
 <h1 align="center">Sorry, Not My Fault!</h1>
-[🇺🇸](README.md)/🇷🇺
+
 <hr>
 
 SNMF! - это открытая замена [NotMyFault](https://learn.microsoft.com/ru-ru/sysinternals/downloads/notmyfault), предназначенная для Linux
