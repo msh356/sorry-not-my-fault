@@ -1,4 +1,4 @@
-# ТЕПЕРЬ ВСЕ МОИ ПРОЕКТЫ НАХОДЯТСЯ НА [CODEBERG](https://codeberg.org/msh356/tospm)!
+# ТЕПЕРЬ ВСЕ МОИ ПРОЕКТЫ НАХОДЯТСЯ НА [CODEBERG](https://codeberg.org/msh356/sorry-not-my-fault)!
 
 <h1 align="center">Sorry, Not My Fault!</h1>
 
